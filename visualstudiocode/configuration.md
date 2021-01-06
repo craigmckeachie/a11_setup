@@ -24,7 +24,8 @@ If you have existing `USER SETTINGS` you will want to **add** the following sett
 }
 ```
 
-6.  Copy the file [prettier.config.js](https://gist.github.com/craigmckeachie/7d0525b5062520f43fba9403bbe65ac8) into your `AngularCourse[Introduction|Comprehesive]xxxx\code` directory (which will be created when you unzip the course files in the last step of the overall computer setup, so download the file now and come back to this step).
+<!--
+6.  Copy the file [prettier.config.js](https://gist.github.com/craigmckeachie/7d0525b5062520f43fba9403bbe65ac8) into your `AngularCourse[Introduction|Comprehesive]xxxx\code` directory (which will be created when you unzip the course files in the last step of the overall computer setup, so download the file now and come back to this step). -->
 
 # Install a font for programming (optional)
 
