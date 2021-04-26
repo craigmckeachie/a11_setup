@@ -13,6 +13,7 @@ If you have existing `USER SETTINGS` you will want to **add** the following sett
 
 ```json
 {
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.fontFamily": "Fira Code iScript, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.multiCursorModifier": "alt",
