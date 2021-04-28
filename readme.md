@@ -12,8 +12,6 @@
       - Students should be able to use the Chrome Developer Tools. This overview explains how to access them:
         - https://developers.google.com/web/tools/chrome-devtools/#open
     - Please also install the following Chrome extensions ( Note: these are NOT required for the course but nice to have):
-      - Augury
-        - https://augury.angular.io/
       - Redux DevTools Extension
         - This extension is only used in the advanced and comprehensive courses
         - http://extension.remotedev.io/
