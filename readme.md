@@ -40,8 +40,6 @@
       - https://www.jetbrains.com/webstorm/download
       - It comes with a free 30-day trial
 
-      * >
-
     - IntelliJ IDEA Ultimate (is another alternative to Visual Studio Code) and is available from
       - https://www.jetbrains.com/idea/download/
       - WebStorm is made by the company Jetbrains who also makes IntelliJ IDEA.
